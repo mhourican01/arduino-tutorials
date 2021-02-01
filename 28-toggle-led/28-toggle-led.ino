@@ -3,7 +3,6 @@ int ledPin = 8;
 int buttonPin = 12;
 int buttonNew;
 int buttonOld = 1;
-int dT = 100;
 
 void setup() {
   // put your setup code here, to run once:
